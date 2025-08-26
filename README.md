@@ -28,7 +28,7 @@ Scalable Laravel APIs + Vue/Nuxt frontends powering real teams and workflows. Bu
 </div>
 
 ### 📚 Side Learning Projects
-- **Restaurant Analytics Dashboard** - Next.js practice project | [Live Demo](https://restrolytics.vercel.app/)
+- **Restaurant Analytics Dashboard** - Laravel, Next.js practice project | [Live Demo](https://restrolytics.vercel.app/)
   
 ### 🌟 Open Source Contributions
 *Currently exploring opportunities to contribute to PHP, JavaScript, Laravel, Vue.js, and React ecosystems. Looking for projects that align with my expertise in building scalable web applications.*
